@@ -40,3 +40,4 @@ C:\Course\Secao17\SalesWebMVC\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\De
 C:\Course\Secao17\SalesWebMVC\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 C:\Course\Secao17\SalesWebMVC\SalesWebMvc\bin\Debug\netcoreapp2.1\libman.json
 C:\Course\Secao17\SalesWebMVC\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Course\Secao17\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
