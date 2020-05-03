@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Course\\Secao17\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\Course\\Secao17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Course\\Secao17\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\Course\\Secao17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Course\\Secao17\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\Course\\Secao17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\Course\\Secao17\\SalesWebMVC\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "C:\\Course\\Secao17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\821623\\.nuget\\packages\\",
-        "outputPath": "C:\\Course\\Secao17\\SalesWebMVC\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\Course\\Secao17\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
