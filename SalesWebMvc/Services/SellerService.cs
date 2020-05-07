@@ -1,4 +1,5 @@
-﻿using SalesWebMvc.Data;
+﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+using SalesWebMvc.Data;
 using SalesWebMvc.Models;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,7 @@ namespace SalesWebMvc.Services
 
         public void Insert(Seller obj)
         {
+            obj.Departament = _context.Departament.First();
             _context.Add(obj);
             _context.SaveChanges();
         }
